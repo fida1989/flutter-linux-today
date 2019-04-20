@@ -1,6 +1,6 @@
 # Linux Today
 
-A new Flutter application.
+A simple Linux Today reader application built using flutter. 
 
 ## Highlights
 
@@ -9,4 +9,4 @@ A new Flutter application.
 
 ## Screenshot
 
-<img src="https://github.com/fida1989/flutter-note-keeper/blob/master/screenshot.png" width="480" height="800">
+<img src="https://github.com/fida1989/flutter-linux-today/blob/master/screenshot.png" width="480" height="800">
